@@ -22,6 +22,7 @@ A modern and interactive 3D portfolio website built to showcase my skills, proje
 - Vite
 - Three.js
 
+
 ## 🚀 Getting Started
 
 ### Clone the repository
